@@ -1,0 +1,5 @@
+a = int(input("Enter number 1 :")
+        )
+b = int(input("Enter Number 2 :" "")
+        )
+print("The Average of these number is",(a+b)/2)
